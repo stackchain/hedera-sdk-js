@@ -82,7 +82,7 @@ export { ConsensusTopicDeleteTransaction } from "./consensus/ConsensusTopicDelet
 export { ConsensusTopicUpdateTransaction } from "./consensus/ConsensusTopicUpdateTransaction";
 export { ConsensusTopicInfoQuery } from "./consensus/ConsensusTopicInfoQuery";
 export { ConsensusTopicId } from "./consensus/ConsensusTopicId";
-export { ConsensusSubmitMessageTransaction } from "./consensus/ConsensusSubmitMessageTransaction";
+export { ConsensusMessageSubmitTransaction } from "./consensus/ConsensusMessageSubmitTransaction";
 
 // Mirror
 export { MirrorConsensusTopicResponse } from "./mirror/MirrorConsensusTopicResponse";
